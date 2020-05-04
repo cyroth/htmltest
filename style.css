@@ -1,4 +1,24 @@
 h1
-{color: black;
-background-color: #008000;
+{
+    text-align: center;
+    color: black;
+    background-color: #008000;
+}
+h2
+{
+    text-align: center;
+    color: black;
+    background-color: yellow;
+}
+ol
+{
+    text-align: center;
+    color: black;
+    background-color: pink;   
+}
+ul
+{
+    text-align: center;
+    color: black;
+    background-color: blue;   
 }
